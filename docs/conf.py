@@ -57,7 +57,7 @@ copyright = u'2013, Russell Keith-Magee'
 #        raise RuntimeError("Unable to find version string.")
 
 # The short X.Y version.
-version = '.'.join(release.split('.')[:2])
+#version = '.'.join(release.split('.')[:2])
 
 # Fix the autodoc import issues
 os.environ['TOGA_PLATFORM'] = 'dummy'
