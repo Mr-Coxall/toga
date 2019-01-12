@@ -241,7 +241,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'toga', u'Toga Documentation',
+    ('index', 'toga', u'Computer Based Problem Solving Documentation',
      [u'Patrick Coxall'], 1)
 ]
 
@@ -255,7 +255,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'toga', u'Toga Documentation',
+  ('index', 'toga', u'Computer Based Problem Solving Documentation',
    u'Patrick Coxall', 'Toga', 'A Python native, OS native GUI toolkit.',
    'Miscellaneous'),
 ]
