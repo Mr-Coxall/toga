@@ -68,33 +68,6 @@ book is strictly on solving problems with computer programming.
 
 C{}DE
 
-Code Tabs
-.. tabs::
-
-   .. code-tab:: c
-
-         C Main Function
-
-   .. code-tab:: c++
-
-         C++ Main Function
-
-   .. code-tab:: py
-
-         Python Main Function
-
-   .. code-tab:: java
-
-         Java Main Function
-
-   .. code-tab:: julia
-
-         Julia Main Function
-
-   .. code-tab:: fortran
-
-         Fortran Main Function
-
 
 .. toctree::
    :maxdepth: 1
